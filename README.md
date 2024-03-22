@@ -32,12 +32,11 @@ The user-friendly menu application provides an interface for performing various 
 ## How to Use:
 
 1. Clone the repository to your local machine.
-2. Ensure you have Python installed.
-3. Run the main script `caesar_cipher.py`.
+2. Ensure you have C++ installed.
+3. Run the main script.
 4. Follow the on-screen instructions to perform your desired task.
 
 ## Contributors:
 
 - Brad Beniamin
-- 
 
